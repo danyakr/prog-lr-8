@@ -1,4 +1,4 @@
-# Дабораторная работа 8
+# Лабораторная работа 8
 
 ## Часть 1
 ![image](https://github.com/user-attachments/assets/a1c1e06c-f462-4fda-81c4-c07ddb5abade)
